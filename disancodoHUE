@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Di sản cố đô Huế</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Di sản cố đô Huế</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Trang chủ</a></li>
+                <li><a href="#heritages">Di sản</a></li>
+                <li><a href="#gallery">Thư viện ảnh</a></li>
+                <li><a href="#news">Tin tức</a></li>
+                <li><a href="#contact">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Chào mừng đến với cố đô Huế</h2>
+        <p>Huế là một trong những trung tâm văn hóa, lịch sử quan trọng nhất của Việt Nam.</p>
+    </section>
+
+    <section id="heritages">
+        <h2>Di sản nổi bật</h2>
+        <ul>
+            <li>Kinh thành Huế</li>
+            <li>Lăng vua Gia Long</li>
+            <li>Chùa Thiên Mụ</li>
+            <li>Nhã nhạc cung đình Huế</li>
+        </ul>
+    </section>
+
+    <section id="gallery">
+        <h2>Thư viện ảnh</h2>
+        <div class="gallery">
+            <img src="hue1.jpg" alt="Kinh thành Huế">
+            <img src="hue2.jpg" alt="Lăng vua Tự Đức">
+        </div>
+    </section>
+
+    <section id="news">
+        <h2>Tin tức & Sự kiện</h2>
+        <p>Cập nhật những sự kiện mới nhất tại cố đô Huế.</p>
+    </section>
+
+    <footer id="contact">
+        <h2>Liên hệ</h2>
+        <p>Email: info@hueheritage.vn</p>
+        <p>Hotline: 123-456-789</p>
+    </footer>
+</body>
+</html>
